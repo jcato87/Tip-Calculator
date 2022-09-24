@@ -1,4 +1,5 @@
 Tip-Calculator
+
 This project opens to a useful tip calculator.
 
 Functionality: user can add the bill amount and tip percentage. 
