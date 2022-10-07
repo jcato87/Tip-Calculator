@@ -53,14 +53,4 @@ h1 {
     color: white;
 }
 
-@media only screen and (max-width: 768px) {
-    #container {
-        width: 50%;
-    }
-    #container input {
-        width: 100%;
-    }
-    #container button {
-        width: 100%;
-    }
-} 
+
